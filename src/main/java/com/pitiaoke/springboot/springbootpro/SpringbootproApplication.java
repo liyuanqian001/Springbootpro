@@ -9,7 +9,8 @@ public class SpringbootproApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringbootproApplication.class, args);
-//annation from github
+        //annation from github
+        //local repository get
     }
 
 }
